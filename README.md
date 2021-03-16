@@ -21,7 +21,7 @@ make
 ```
 make check
 or
-pintos -v -- -q run <test_name>
+pintos -q run <test_name>
 ```
 
 #### By Physicube
